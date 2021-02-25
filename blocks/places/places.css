@@ -1,0 +1,9 @@
+.places {
+   padding-top: 92px;
+   width: calc(100% - 148px*2);
+   max-width: 984px;
+   margin: 0 auto;
+   display: grid;
+   grid-auto-columns: 984px;
+   row-gap: 80px;
+}

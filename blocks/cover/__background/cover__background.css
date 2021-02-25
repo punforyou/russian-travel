@@ -1,0 +1,9 @@
+.cover__background {
+    max-width: 1184px;
+    max-height: 740px;
+    object-fit: cover;
+    object-position: center;
+    opacity: .7;
+    position: relative;
+}
+

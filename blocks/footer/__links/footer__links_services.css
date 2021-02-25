@@ -1,0 +1,7 @@
+.footer__links_services {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-right: 18px;
+    padding: 0;
+}

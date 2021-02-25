@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "InterBold";
+    src: url(../fonts/static/Inter-ExtraBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "InterLight";
+    src: url(../fonts/static/Inter-Light.ttf) format("truetype");
+}
+
+h1 {
+    font-family: "InterBold";  
+}
+
+h2 {
+    font-family: "InterBold";  
+}
+
+p {
+    font-family: "InterLight"; 
+}
