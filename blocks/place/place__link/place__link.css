@@ -1,8 +1,8 @@
-.place__website_link {
+.place__link {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
-    color: #FFFFFF;  
+    color: #FFFFFF;
 }

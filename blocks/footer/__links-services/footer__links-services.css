@@ -1,4 +1,4 @@
-.footer__links_services {
+.footer__links-services {
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
-    .footer__links_services {
+    .footer__links-services {
         display: grid;
         gap: 32px;
         margin: 0;

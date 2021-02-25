@@ -25,7 +25,7 @@
   .footer {
     padding-top: 64px;
     display: grid;
-    grid-template-areas: "footer__links_services" "footer__copyright";
+    grid-template-areas: "footer__links-services" "footer__copyright";
     gap: 48px;
     width: calc(100% - 16px*2);
   }
