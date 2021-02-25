@@ -1,6 +1,8 @@
 @font-face {
     font-family: "Inter";
-    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf) format("truetype");
+    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf) format("truetype"),
+    url(../fonts/inter-variablefont_slntwght-webfont.woff) format("woff"),
+    url(../fonts/inter-variablefont_slntwght-webfont.woff2) format("woff2");
 }
 
 @font-face {

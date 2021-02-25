@@ -1,6 +1,6 @@
 .place__paragraph {
     margin: 0;
-    max-width: 484px;
+    max-width: 100%;
     grid-area: paragraph;
     display: grid;
     row-gap: 26px;
