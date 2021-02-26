@@ -12,6 +12,8 @@
 @media screen and (min-width:1024px) and (max-width:1279px) {
    .places {
       width: calc(100% - 48px*2);
+      max-width: 928px;
+      grid-auto-columns: 928px;
    }
 }
 
@@ -21,12 +23,16 @@
       padding-top: 88px;
       padding-bottom: 90px;
       row-gap: 73px;
+      max-width: 720px;
+      grid-auto-columns: 720px;
    }
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
    .places {
       width: 100%;
+      flex-wrap: wrap;
+      max-width: 320px;
       padding-top: 64px;
       padding-bottom: 66px;
       row-gap: 50px;
